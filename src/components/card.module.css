@@ -1,0 +1,167 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 160px;
+}
+.your {
+  margin-top: 111px;
+}
+.come {
+  width: 762px;
+  height: 292px;
+  top: 198px;
+  left: 160px;
+  gap: 0px;
+  opacity: 0px;
+  margin-bottom: 48px;
+}
+.come h2 {
+  width: 762px;
+  height: 196px;
+  top: 198px;
+  left: 160px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 97.52px;
+  letter-spacing: -0.035em;
+  text-align: left;
+  color: #403c39;
+  margin-bottom: 16px;
+}
+.come p {
+  width: 648px;
+  height: 80px;
+  top: 410px;
+  left: 160px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: left;
+  color: #949494;
+}
+.inputw {
+  width: 512px;
+  height: 60px;
+  top: 538px;
+  left: 160px;
+  gap: 0px;
+  border-radius: 0px 8px 8px 0px;
+  opacity: 0px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.inputw input {
+  width: 452px;
+  height: 60px;
+  padding: 17px 311px 16px 32px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: none;
+  background-color: #d0d0d240;
+  cursor: pointer;
+}
+.search {
+  width: 60px;
+  height: 60px;
+
+  padding: 16px;
+  gap: 10px;
+  border-radius: 0px 8px 8px 0px;
+  background-color: #f38160;
+  color: aqua;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+.search:hover {
+  background-color: #c56b52;
+  color: black;
+}
+.fresh {
+  width: 400px;
+  height: 70px;
+  top: 638px;
+  left: 160px;
+  gap: 16px;
+  opacity: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 27px;
+  opacity: 0px;
+  gap: 10px;
+}
+.chesk {
+  width: 24px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #f0b70d;
+  color: beige;
+  border-radius: 50px;
+}
+.link h4 {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: #949494;
+}
+.images {
+  margin-left: -400px;
+  margin-top: -120px;
+}
+.card_user {
+  width: 208px;
+  height: 256px;
+  background-color: #f381600d;
+  border: 1px solid #949494;
+  border-radius: 10px;
+  margin-bottom: 32px;
+  padding: 17px 24px;
+  text-align: center;
+  border: 1px solid #949494;
+}
+.card {
+    margin-left: -50px;
+}
+.card_user img {
+    width: 160px;
+height: 160px;
+top: 457px;
+left: 1576px;
+gap: 0px;
+opacity: 0px;
+margin-bottom: 8px;
+}
+.card_user h3 {
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+color: #403C39;
+text-align: center;
+}
+.card_user h4 {
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+color: #F38160;
+text-align: center;
+}
+.spn {
+    color: #F38160;
+}
+.hear {
+    margin-bottom: 100px;
+}

@@ -1,0 +1,41 @@
+{
+    "en": {
+      "translation": {
+        "Home": "Home",
+         "Categories": "Categories",
+         "Sales": "Sales",
+         "FAQ": "FAQ",
+         "About": "About",
+         "Contact": "Contact",
+          "Light": "Light",
+          "Dark": "Dark"
+        
+      }
+    },
+    "ru": {
+      "translation": {
+        "Home": "Дом",
+         "Categories": "Категории",
+         "Sales": "Продажи",
+         "FAQ": "Часто",
+         "About": "О",
+         "Contact": "Контакт",
+          "Light": "Свет",
+          "Dark": "Темный"
+      }
+    },
+
+    "uz": {
+        "translation": {
+          "Home": "Uy",
+           "Categories": "Kategoriyalar",
+           "Sales": "Sotish",
+           "FAQ": "TSS",
+           "About": "Haqida",
+           "Contact": "Aloqa",
+            "Light": "Nur",
+            "Dark": "Qorong'i"
+         
+        }
+      }
+  }

@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container {
+    width: 1920px;
+height: 1080px;
+top: -540px;
+left: -961px;
+gap: 0px;
+opacity: 0px;
+background: #FFFFFFCC;
+
+}
+  
